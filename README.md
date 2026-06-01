@@ -52,7 +52,7 @@
 
 ## 💼 Experiência
 
-### 💼 Corsi Enterprise (2025 - Atual)
+### 💼 Corsi Enterprise (2025 - 2026)
 
 **Desenvolvedor Full Stack**
 
