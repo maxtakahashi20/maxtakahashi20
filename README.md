@@ -1,6 +1,6 @@
-<!-- ====== HEADER ANIMADO ====== -->
+<!-- ====== BANNER ====== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2980,100:26d0ce&height=200&section=header&text=Max%20Takahashi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%26%20FiveM%20Developer&descAlignY=58&descSize=20" />
+  <img src="./assets/banner.png" alt="Max Takahashi - Full Stack Developer" width="100%" />
 </p>
 
 <p align="center">
@@ -48,39 +48,27 @@ const max = {
 
 ## 🛠️ Stack Tecnológica
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-
-### 💻 Front-end
+#### 💻 Front-end
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind&perline=4" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind" />
 </p>
 
-### ⚙️ Back-end
+#### ⚙️ Back-end
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,go,express&perline=4" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,go,express" />
 </p>
 
-  </td>
-  <td valign="top" width="50%">
-
-### 🗄️ Banco de Dados
+#### 🗄️ Banco de Dados
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,supabase&perline=5" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,supabase" />
 </p>
 
-### 🔧 DevOps & Tools
+#### 🔧 DevOps & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vercel,netlify,vscode,postman&perline=4" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vercel,netlify,vscode,postman" />
 </p>
 
-  </td>
-  </tr>
-</table>
-
-### 🎮 FiveM Development
-
+#### 🎮 FiveM Development
 <p>
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
   <img src="https://img.shields.io/badge/FiveM-FF6B00?style=for-the-badge&logo=rockstargames&logoColor=white" />
@@ -105,10 +93,6 @@ const max = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=maxtakahashi20&theme=tokyonight&hide_border=true&background=0D1117" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=maxtakahashi20&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
-</p>
-
 ---
 
 ## 🐍 Atividade de Contribuições
@@ -121,62 +105,41 @@ const max = {
 
 ## 💼 Experiência
 
-| Empresa | Cargo | Período |
-|:-------:|:-----:|:-------:|
-| **Corsi Enterprise** | Full Stack Developer | 2025 – 2026 |
+### 🏢 Corsi Enterprise · Full Stack Developer · `2025 – 2026`
 
-> Desenvolvimento e manutenção de aplicações web modernas · Criação de APIs e sistemas administrativos · Integração frontend/backend/banco · Foco em performance e escalabilidade.
+- 🔧 Desenvolvimento e manutenção de aplicações web modernas
+- 🔌 Criação de APIs e sistemas administrativos
+- 🔗 Integração entre frontend, backend e banco de dados
+- ⚡ Foco em performance e escalabilidade
 
 ---
 
 ## 🚀 Projetos em Destaque
 
-<table>
-  <tr>
-    <td valign="top" width="33%">
-
 ### 🚗 Takahashi Motors
-Plataforma completa de concessionária com foco em gerenciamento e UX.
+> Plataforma completa de concessionária com foco em gerenciamento e experiência do usuário.
 
-🔐 Autenticação<br/>
-📊 Painel admin<br/>
-💬 Chat em tempo real<br/>
-🚘 Gestão de veículos<br/>
-📱 Responsivo
+🔐 Autenticação &nbsp;·&nbsp; 📊 Painel admin &nbsp;·&nbsp; 💬 Chat em tempo real &nbsp;·&nbsp; 🚘 Gestão de veículos &nbsp;·&nbsp; 📱 Responsivo
 
 `React` `Next.js` `TypeScript` `Node.js` `PostgreSQL`
 
-  </td>
-  <td valign="top" width="33%">
+<br/>
 
 ### 🎮 FiveM Development
-Sistemas personalizados para servidores Roleplay.
+> Sistemas personalizados para servidores Roleplay.
 
-💼 Empregos custom<br/>
-🎒 Inventários<br/>
-🎨 HUDs modernas<br/>
-🏢 Organizações/facções<br/>
-💰 Sistemas econômicos
+💼 Empregos custom &nbsp;·&nbsp; 🎒 Inventários &nbsp;·&nbsp; 🎨 HUDs modernas &nbsp;·&nbsp; 🏢 Organizações/facções &nbsp;·&nbsp; 💰 Sistemas econômicos
 
 `Lua` `QBCore` `ESX` `VRP` `ox_lib`
 
-  </td>
-  <td valign="top" width="33%">
+<br/>
 
 ### 🎨 RB Graphics
-Site institucional para gráfica digital, focado em conversão.
+> Site institucional para gráfica digital, focado em conversão.
 
-🎯 Landing profissional<br/>
-📱 Design responsivo<br/>
-✨ Animações modernas<br/>
-🚀 SEO otimizado<br/>
-📈 Foco em conversão
+🎯 Landing profissional &nbsp;·&nbsp; 📱 Design responsivo &nbsp;·&nbsp; ✨ Animações modernas &nbsp;·&nbsp; 🚀 SEO otimizado
 
 `HTML` `CSS` `JavaScript` `Tailwind`
-
-  </td>
-  </tr>
-</table>
 
 ---
 
@@ -198,10 +161,4 @@ Site institucional para gráfica digital, focado em conversão.
   <a href="https://maxdev-silk.vercel.app">
     <img src="https://img.shields.io/badge/Portfólio-26d0ce?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:26d0ce,100:1a2980&height=120&section=footer&text=Transformando%20ideias%20em%20soluções%20digitais&fontSize=16&fontColor=ffffff&fontAlignY=70" />
 </p>
