@@ -1,13 +1,13 @@
 <!-- ====== BANNER ====== -->
 <p align="center">
-  <img src="./assets/banner.png" alt="Max Takahashi - Full Stack Developer" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Max Takahashi - Full Stack Developer" width="100%" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/maxtakahashi20">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=26D0CE&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;FiveM+%26+Roleplay+Developer;Transformando+ideias+em+soluções+digitais;Código+limpo+%26+escalável" alt="Typing SVG" />
   </a>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=maxtakahashi20&style=for-the-badge&color=26d0ce&label=PROFILE+VIEWS" />
