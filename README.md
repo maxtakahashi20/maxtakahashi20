@@ -95,14 +95,6 @@ const max = {
 
 ---
 
-## 🐍 Atividade de Contribuições
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/maxtakahashi20/maxtakahashi20/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
 ## 💼 Experiência
 
 ### 🏢 Corsi Enterprise · Full Stack Developer · `2025 – 2026`
