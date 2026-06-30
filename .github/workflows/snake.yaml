@@ -14,13 +14,17 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: Platane/snk@v3
+      - name: Generate snake animations
+        uses: Platane/snk@v3
         with:
           github_user_name: maxtakahashi20
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/snake-dark.svg?palette=github-dark
+            dist/snake-light.svg?palette=github-light
+            dist/snake.gif?color_snake=#26d0ce&color_dots=#1a2980,#2563eb,#3b82f6,#60a5fa,#93c5fd
 
-      - uses: crazy-max/ghaction-github-pages@v4
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
