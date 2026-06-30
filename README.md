@@ -1,185 +1,207 @@
-# 👨‍💻 Max Takahashi
-
-<h3 align="center">🚀 Full Stack & FiveM Developer</h3>
+<!-- ====== HEADER ANIMADO ====== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2980,100:26d0ce&height=200&section=header&text=Max%20Takahashi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%26%20FiveM%20Developer&descAlignY=58&descSize=20" />
+</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Experiência-Full%20Stack%20%26%20FiveM-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Foco-Web%20Applications%20%26%20Roleplay-black?style=for-the-badge" />
+  <a href="https://github.com/maxtakahashi20">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=26D0CE&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;FiveM+%26+Roleplay+Developer;Transformando+ideias+em+soluções+digitais;Código+limpo+%26+escalável" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=maxtakahashi20&style=for-the-badge&color=26d0ce&label=PROFILE+VIEWS" />
   <img src="https://img.shields.io/badge/Status-Disponível-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Foco-Web%20%26%20Roleplay-1a2980?style=for-the-badge" />
 </p>
 
 ---
 
 ## 🧠 Sobre mim
 
-💻 Desenvolvedor Full Stack e FiveM Developer focado na criação de aplicações modernas, sistemas escaláveis e recursos personalizados para servidores Roleplay.
+<img align="right" width="300" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 
-⚡ Experiência no desenvolvimento de aplicações web, dashboards administrativos, sistemas em tempo real, APIs, integrações e scripts avançados para FiveM.
+```typescript
+const max = {
+  role: "Full Stack & FiveM Developer",
+  stack: {
+    frontend: ["React", "Next.js", "TypeScript", "Tailwind"],
+    backend:  ["Node.js", "NestJS", "Golang"],
+    database: ["PostgreSQL", "MySQL", "MongoDB", "Supabase"],
+    devops:   ["Docker", "Git", "Vercel"],
+    fivem:    ["Lua", "QBCore", "ESX", "ox_lib"]
+  },
+  focus: "Código limpo, performance e escalabilidade",
+  currentlyLearning: "Sempre evoluindo 🚀"
+};
+```
 
-🚀 Apaixonado por tecnologia, arquitetura de software, experiência do usuário e soluções eficientes.
+💻 Desenvolvedor Full Stack e FiveM Developer focado em aplicações modernas, sistemas escaláveis e recursos personalizados para servidores Roleplay.
 
-🎯 Sempre buscando evoluir tecnicamente e construir projetos com código limpo, organização e escalabilidade.
+⚡ Experiência em aplicações web, dashboards administrativos, sistemas em tempo real, APIs, integrações e scripts avançados para FiveM.
+
+🎯 Apaixonado por arquitetura de software, experiência do usuário e soluções eficientes.
+
+<br clear="right"/>
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Stack Tecnológica
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
 
 ### 💻 Front-end
-
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind&perline=4" />
 </p>
 
 ### ⚙️ Back-end
-
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,go,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,go,express&perline=4" />
 </p>
+
+  </td>
+  <td valign="top" width="50%">
+
+### 🗄️ Banco de Dados
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,supabase&perline=5" />
+</p>
+
+### 🔧 DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vercel,netlify,vscode,postman&perline=4" />
+</p>
+
+  </td>
+  </tr>
+</table>
 
 ### 🎮 FiveM Development
 
 <p>
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
   <img src="https://img.shields.io/badge/FiveM-FF6B00?style=for-the-badge&logo=rockstargames&logoColor=white" />
-  <img src="https://img.shields.io/badge/NUI-Development-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Client-Server_Scripts-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Event_Driven-Systems-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Resource-Development-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Performance-Optimization-red?style=for-the-badge" />
-</p>
-
-### 🏗️ Frameworks & Resources
-
-<p>
-  <img src="https://img.shields.io/badge/QBCore-Framework-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ESX-Framework-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/QBCore-Framework-1a2980?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ESX-Framework-26d0ce?style=for-the-badge" />
   <img src="https://img.shields.io/badge/VRP-Framework-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ox_lib-Resource-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ox_inventory-Resource-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ox_target-Resource-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/qb_target-Resource-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/qb_inventory-Resource-informational?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/qb_menu-Resource-yellow?style=for-the-badge" />
-</p>
----
-
-### 🗄️ Banco de Dados
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,supabase" />
+  <img src="https://img.shields.io/badge/ox__lib-Resource-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ox__inventory-Resource-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ox__target-Resource-blueviolet?style=for-the-badge" />
 </p>
 
 ---
 
-### 🔧 DevOps & Ferramentas
+## 📊 GitHub Analytics
 
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vercel,netlify,vscode,postman" />
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maxtakahashi20&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxtakahashi20&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&bg_color=0D1117" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maxtakahashi20&theme=tokyonight&hide_border=true&background=0D1117" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=maxtakahashi20&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+</p>
+
+---
+
+## 🐍 Atividade de Contribuições
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/maxtakahashi20/maxtakahashi20/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
 ## 💼 Experiência
 
-### 💼 Corsi Enterprise (2025 - 2026)
+| Empresa | Cargo | Período |
+|:-------:|:-----:|:-------:|
+| **Corsi Enterprise** | Full Stack Developer | 2025 – 2026 |
 
-**Full Stack Developer**
-
-* Desenvolvimento e manutenção de aplicações web modernas
-* Criação de APIs e sistemas administrativos
-* Integração entre frontend, backend e banco de dados
-* Versionamento e colaboração com GitHub
-* Desenvolvimento focado em performance e escalabilidade
+> Desenvolvimento e manutenção de aplicações web modernas · Criação de APIs e sistemas administrativos · Integração frontend/backend/banco · Foco em performance e escalabilidade.
 
 ---
 
 ## 🚀 Projetos em Destaque
 
+<table>
+  <tr>
+    <td valign="top" width="33%">
+
 ### 🚗 Takahashi Motors
+Plataforma completa de concessionária com foco em gerenciamento e UX.
 
-Plataforma completa de concessionária desenvolvida para ambiente web com foco em gerenciamento e experiência do usuário.
+🔐 Autenticação<br/>
+📊 Painel admin<br/>
+💬 Chat em tempo real<br/>
+🚘 Gestão de veículos<br/>
+📱 Responsivo
 
-**Principais recursos:**
+`React` `Next.js` `TypeScript` `Node.js` `PostgreSQL`
 
-* 🔐 Sistema de autenticação
-* 📊 Painel administrativo
-* 💬 Chat em tempo real
-* 🚘 Cadastro e gerenciamento de veículos
-* 📱 Interface responsiva
-* ⚡ Performance otimizada
-
-**Tecnologias:**
-React • Next.js • TypeScript • Node.js • PostgreSQL
-
----
+  </td>
+  <td valign="top" width="33%">
 
 ### 🎮 FiveM Development
+Sistemas personalizados para servidores Roleplay.
 
-Desenvolvimento de sistemas personalizados para servidores Roleplay utilizando Lua e frameworks modernos.
+💼 Empregos custom<br/>
+🎒 Inventários<br/>
+🎨 HUDs modernas<br/>
+🏢 Organizações/facções<br/>
+💰 Sistemas econômicos
 
-**Projetos desenvolvidos:**
+`Lua` `QBCore` `ESX` `VRP` `ox_lib`
 
-* 💼 Sistemas de empregos personalizados
-* 🎒 Inventários customizados
-* 🎨 HUDs modernas
-* 🛡️ Painéis administrativos
-* 🔗 Integrações com Discord
-* 🏢 Sistemas de organizações e facções
-* 💰 Sistemas econômicos
-* 📋 Sistemas de recrutamento
-* ⏱️ Sistemas de ponto e hierarquia
-* 🎯 Sistemas com ox_target e qb-target
-* 📦 Recursos otimizados para alta performance
-
-**Frameworks e recursos:**
-QBCore • ESX • VRP • ox_lib • ox_inventory • ox_target • qb-target • qb-menu • qb-inventory
-
----
+  </td>
+  <td valign="top" width="33%">
 
 ### 🎨 RB Graphics
+Site institucional para gráfica digital, focado em conversão.
 
-Website institucional desenvolvido para gráfica digital com foco em marketing e conversão.
+🎯 Landing profissional<br/>
+📱 Design responsivo<br/>
+✨ Animações modernas<br/>
+🚀 SEO otimizado<br/>
+📈 Foco em conversão
 
-**Principais recursos:**
+`HTML` `CSS` `JavaScript` `Tailwind`
 
-* 🎯 Landing Page profissional
-* 📱 Design responsivo
-* ✨ Animações modernas
-* 🚀 SEO otimizado
-* 📈 Estrutura focada em conversão
-
-**Tecnologias:**
-HTML • CSS • JavaScript • Tailwind CSS
-
----
-
-<p>
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
-  <img src="https://img.shields.io/badge/QBCore-Framework-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ESX-Framework-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/FiveM-Developer-orange?style=for-the-badge"/>
-</p>
+  </td>
+  </tr>
+</table>
 
 ---
 
 ## 🌎 Idiomas
 
-🇧🇷 Português (Nativo)
-
-🇺🇸 Inglês (Intermediário)
+🇧🇷 Português (Nativo) &nbsp;&nbsp;|&nbsp;&nbsp; 🇺🇸 Inglês (Intermediário)
 
 ---
 
-## 📫 Contato
+## 📫 Vamos conversar?
 
-📧 [maxwanber@gmail.com](mailto:maxwanber@gmail.com)
-
-🐙 GitHub: github.com/maxtakahashi20
-
-🌐 Portfólio: maxdev-silk.vercel.app
+<p align="center">
+  <a href="mailto:maxwanber@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/maxtakahashi20">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://maxdev-silk.vercel.app">
+    <img src="https://img.shields.io/badge/Portfólio-26d0ce?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🚀 Frase
-
-> "Transformando ideias em soluções digitais modernas, escaláveis e experiências únicas dentro e fora do FiveM."
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:26d0ce,100:1a2980&height=120&section=footer&text=Transformando%20ideias%20em%20soluções%20digitais&fontSize=16&fontColor=ffffff&fontAlignY=70" />
+</p>
