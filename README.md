@@ -1,168 +1,178 @@
-<!-- ====== BANNER ====== -->
+<h1 align="center">Max Takahashi</h1>
+
 <p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Max Takahashi - Full Stack Developer" width="100%" />
+  <strong>Full Stack Developer</strong><br/>
+  Aplicações web modernas, APIs e painéis administrativos — do banco de dados à interface.
 </p>
 
-<!-- <p align="center">
-  <a href="https://github.com/maxtakahashi20">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=26D0CE&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;FiveM+%26+Roleplay+Developer;Transformando+ideias+em+soluções+digitais;Código+limpo+%26+escalável" alt="Typing SVG" />
+<p align="center">
+  <a href="https://maxdev-silk.vercel.app">
+    <img src="https://img.shields.io/badge/Portfólio-26d0ce?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
   </a>
-</p> -->
+  <a href="mailto:maxwanber@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+  </a>
+  <a href="https://github.com/maxtakahashi20?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositórios-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositórios" />
+  </a>
+</p>
+
+---
+
+## Sobre
+
+Desenvolvedor full stack com foco em **aplicações web de produto**: sistemas administrativos, APIs, integrações e recursos em tempo real. Trabalho o ciclo inteiro — modelagem de dados, backend, interface e entrega — com atenção a arquitetura, performance e experiência de quem usa.
+
+Também desenvolvo sistemas sob medida para servidores de Roleplay (FiveM), onde vieram boa parte da minha prática em tempo real e integrações.
+
+**Idiomas:** Português (nativo) · Inglês (intermediário)
+
+---
+
+## Stack
+
+**Front-end**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css" alt="React, Next.js, TypeScript, JavaScript, Tailwind, HTML, CSS" />
+</p>
+
+**Back-end**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,go,express" alt="Node.js, NestJS, Go, Express" />
+</p>
+
+**Banco de dados**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,firebase" alt="PostgreSQL, MySQL, MongoDB, Supabase, Firebase" />
+</p>
+
+**DevOps e ferramentas**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vercel,netlify,vscode,postman" alt="Docker, Git, GitHub, Vercel, Netlify, VS Code, Postman" />
+</p>
+
+**FiveM** — Lua · QBCore · ESX · VRP · ox_lib · ox_inventory · ox_target
+
+---
+
+## Experiência
+
+**Voga** · Full Stack Developer · `2026 – atual`
+
+- Desenvolvimento de plataforma interna de gestão: clientes, planos, pagamentos e automações
+- APIs, integrações com serviços externos e recursos em tempo real
+- Interfaces administrativas para uso diário das equipes
+
+**Corsi Enterprise** · Full Stack Developer · `2025 – 2026`
+
+- Desenvolvimento e manutenção de aplicações web
+- Criação de APIs e sistemas administrativos
+- Integração entre front-end, back-end e banco de dados
+
+---
+
+## Projetos em destaque
+
+**Takahashi Motors** — plataforma de concessionária, do catálogo à gestão.<br/>
+Autenticação · painel administrativo · chat em tempo real · gestão de veículos · responsivo<br/>
+`React` `Next.js` `TypeScript` `Node.js` `PostgreSQL`
+
+**RB Graphics** — site institucional para gráfica digital, com foco em conversão.<br/>
+Landing page · design responsivo · animações · SEO<br/>
+`HTML` `CSS` `JavaScript` `Tailwind`
+
+**FiveM Development** — sistemas sob medida para servidores de Roleplay.<br/>
+Empregos · inventários · HUDs · organizações · economia<br/>
+`Lua` `QBCore` `ESX` `VRP` `ox_lib`
+
+---
+
+## GitHub
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=maxtakahashi20&style=for-the-badge&color=26d0ce&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/badge/Status-Disponível-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Foco-Web%20%26%20Roleplay-1a2980?style=for-the-badge" />
-</p>
-
----
-
-## 🧠 Sobre mim
-
-<img align="right" width="300" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
-
-```typescript
-const max = {
-  role: "Full Stack & FiveM Developer",
-  stack: {
-    frontend: ["React", "Next.js", "TypeScript", "Tailwind"],
-    backend:  ["Node.js", "NestJS", "Golang"],
-    database: ["PostgreSQL", "MySQL", "MongoDB", "Supabase"],
-    devops:   ["Docker", "Git", "Vercel"],
-    fivem:    ["Lua", "QBCore", "ESX", "ox_lib"]
-  },
-  focus: "Código limpo, performance e escalabilidade",
-  currentlyLearning: "Sempre evoluindo 🚀"
-};
-```
-
-💻 Desenvolvedor Full Stack e FiveM Developer focado em aplicações modernas, sistemas escaláveis e recursos personalizados para servidores Roleplay.
-
-⚡ Experiência em aplicações web, dashboards administrativos, sistemas em tempo real, APIs, integrações e scripts avançados para FiveM.
-
-🎯 Apaixonado por arquitetura de software, experiência do usuário e soluções eficientes.
-
-<br clear="right"/>
-
----
-
-## 🛠️ Stack Tecnológica
-
-#### 💻 Front-end
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind" />
-</p>
-
-#### ⚙️ Back-end
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,go,express" />
-</p>
-
-#### 🗄️ Banco de Dados
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,supabase" />
-</p>
-
-#### 🔧 DevOps & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vercel,netlify,vscode,postman" />
-</p>
-
-#### 🎮 FiveM Development
-<p>
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
-  <img src="https://img.shields.io/badge/FiveM-FF6B00?style=for-the-badge&logo=rockstargames&logoColor=white" />
-  <img src="https://img.shields.io/badge/QBCore-Framework-1a2980?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ESX-Framework-26d0ce?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/VRP-Framework-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ox__lib-Resource-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ox__inventory-Resource-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ox__target-Resource-blueviolet?style=for-the-badge" />
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maxtakahashi20&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxtakahashi20&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&bg_color=0D1117" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=maxtakahashi20&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="Estatísticas do GitHub" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxtakahashi20&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&bg_color=0D1117" alt="Linguagens mais usadas" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maxtakahashi20&theme=tokyonight&hide_border=true&background=0D1117" />
+  <img src="https://streak-stats.demolab.com/?user=maxtakahashi20&theme=tokyonight&hide_border=true&background=0D1117" alt="Sequência de contribuições" />
 </p>
-
----
-
-## 🐍 Contribuições
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maxtakahashi20/maxtakahashi20/output/snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maxtakahashi20/maxtakahashi20/output/snake-light.svg" />
-    <img alt="Cobrinha comendo os commits do Max" src="https://raw.githubusercontent.com/maxtakahashi20/maxtakahashi20/output/snake.gif" width="100%" />
+    <img alt="Contribuições" src="https://raw.githubusercontent.com/maxtakahashi20/maxtakahashi20/output/snake.gif" width="100%" />
   </picture>
 </p>
 
 ---
 
-## 💼 Experiência
-
-### 🏢 Corsi Enterprise · Full Stack Developer · `2025 – 2026`
-
-- 🔧 Desenvolvimento e manutenção de aplicações web modernas
-- 🔌 Criação de APIs e sistemas administrativos
-- 🔗 Integração entre frontend, backend e banco de dados
-- ⚡ Foco em performance e escalabilidade
-
----
-
-## 🚀 Projetos em Destaque
-
-### 🚗 Takahashi Motors
-> Plataforma completa de concessionária com foco em gerenciamento e experiência do usuário.
-
-🔐 Autenticação &nbsp;·&nbsp; 📊 Painel admin &nbsp;·&nbsp; 💬 Chat em tempo real &nbsp;·&nbsp; 🚘 Gestão de veículos &nbsp;·&nbsp; 📱 Responsivo
-
-`React` `Next.js` `TypeScript` `Node.js` `PostgreSQL`
-
-<br/>
-
-### 🎮 FiveM Development
-> Sistemas personalizados para servidores Roleplay.
-
-💼 Empregos custom &nbsp;·&nbsp; 🎒 Inventários &nbsp;·&nbsp; 🎨 HUDs modernas &nbsp;·&nbsp; 🏢 Organizações/facções &nbsp;·&nbsp; 💰 Sistemas econômicos
-
-`Lua` `QBCore` `ESX` `VRP` `ox_lib`
-
-<br/>
-
-### 🎨 RB Graphics
-> Site institucional para gráfica digital, focado em conversão.
-
-🎯 Landing profissional &nbsp;·&nbsp; 📱 Design responsivo &nbsp;·&nbsp; ✨ Animações modernas &nbsp;·&nbsp; 🚀 SEO otimizado
-
-`HTML` `CSS` `JavaScript` `Tailwind`
-
----
-
-## 🌎 Idiomas
-
-🇧🇷 Português (Nativo) &nbsp;&nbsp;|&nbsp;&nbsp; 🇺🇸 Inglês (Intermediário)
-
----
-
-## 📫 Vamos conversar?
+## Contato
 
 <p align="center">
   <a href="mailto:maxwanber@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/maxtakahashi20">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://maxdev-silk.vercel.app">
-    <img src="https://img.shields.io/badge/Portfólio-26d0ce?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfólio-26d0ce?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
+  </a>
+  <a href="https://github.com/maxtakahashi20">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
+
+---
+
+<details>
+<summary><strong>English version</strong></summary>
+
+<br/>
+
+### About
+
+Full stack developer focused on **web products**: admin systems, APIs, integrations and real-time features. I work across the whole cycle — data modelling, backend, interface and delivery — with attention to architecture, performance and user experience.
+
+I also build custom systems for FiveM Roleplay servers, where much of my real-time and integration practice comes from.
+
+**Languages:** Portuguese (native) · English (intermediate)
+
+### Stack
+
+**Front-end** — React · Next.js · TypeScript · JavaScript · Tailwind · HTML · CSS<br/>
+**Back-end** — Node.js · NestJS · Go · Express<br/>
+**Databases** — PostgreSQL · MySQL · MongoDB · Supabase · Firebase<br/>
+**DevOps & tools** — Docker · Git · GitHub · Vercel · Netlify · VS Code · Postman<br/>
+**FiveM** — Lua · QBCore · ESX · VRP · ox_lib
+
+### Experience
+
+**Voga** · Full Stack Developer · `2026 – present`<br/>
+Internal management platform: clients, plans, payments and automations. APIs, third-party integrations and real-time features. Admin interfaces used daily by the teams.
+
+**Corsi Enterprise** · Full Stack Developer · `2025 – 2026`<br/>
+Development and maintenance of web applications, APIs and admin systems; integration between front-end, back-end and database.
+
+### Featured projects
+
+**Takahashi Motors** — car dealership platform, from catalogue to management.<br/>
+Authentication · admin panel · real-time chat · vehicle management · responsive<br/>
+`React` `Next.js` `TypeScript` `Node.js` `PostgreSQL`
+
+**RB Graphics** — conversion-focused website for a digital print shop.<br/>
+Landing page · responsive design · animations · SEO<br/>
+`HTML` `CSS` `JavaScript` `Tailwind`
+
+**FiveM Development** — custom systems for Roleplay servers.<br/>
+Jobs · inventories · HUDs · organisations · economy<br/>
+`Lua` `QBCore` `ESX` `VRP` `ox_lib`
+
+### Contact
+
+[Email](mailto:maxwanber@gmail.com) · [Portfolio](https://maxdev-silk.vercel.app) · [GitHub](https://github.com/maxtakahashi20)
+
+</details>
