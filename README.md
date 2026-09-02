@@ -95,6 +95,18 @@ const max = {
 
 ---
 
+## 🐍 Contribuições
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maxtakahashi20/maxtakahashi20/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maxtakahashi20/maxtakahashi20/output/snake-light.svg" />
+    <img alt="Cobrinha comendo os commits do Max" src="https://raw.githubusercontent.com/maxtakahashi20/maxtakahashi20/output/snake.gif" width="100%" />
+  </picture>
+</p>
+
+---
+
 ## 💼 Experiência
 
 ### 🏢 Corsi Enterprise · Full Stack Developer · `2025 – 2026`
