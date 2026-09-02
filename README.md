@@ -94,8 +94,8 @@ Empregos · inventários · HUDs · organizações · economia<br/>
 ## GitHub
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=maxtakahashi20&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="Estatísticas do GitHub" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxtakahashi20&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&bg_color=0D1117" alt="Linguagens mais usadas" />
+  <img height="175em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maxtakahashi20&theme=tokyonight" alt="Estatísticas do GitHub" />
+  <img height="175em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maxtakahashi20&theme=tokyonight" alt="Linguagens mais usadas" />
 </p>
 
 <p align="center">
